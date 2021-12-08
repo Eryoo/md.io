@@ -5,7 +5,7 @@ module.exports = {
     description: '“来首有音乐治治我的腿”的前端学习网',
 
     themeConfig: {
-          contributors:false,
+        contributors: false,
         logo: 'http://mms0.baidu.com/it/u=3113972560,2880338129&fm=253&app=138&f=JPEG&fmt=auto&q=75',
         sidebar: [
             // SidebarItem
