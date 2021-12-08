@@ -6,16 +6,6 @@ module.exports = {
 
     themeConfig: {
         logo: 'http://mms0.baidu.com/it/u=3113972560,2880338129&fm=253&app=138&f=JPEG&fmt=auto&q=75',
-        navbar: [],
-        locales: {
-            '/': {
-                selectLanguageName: 'English',
-            },
-            '/zh/': {
-                selectLanguageName: '简体中文',
-            },
-        },
-        sidebarDepth: 2,
         sidebar: [
             // SidebarItem
             {
@@ -29,10 +19,6 @@ module.exports = {
                     link: '/knowledge/sort.md',
 
                 }]
-            },
-            {
-                text: "实战进阶",
-                link: '/',
             },
             {
                 text: '面试相关',
