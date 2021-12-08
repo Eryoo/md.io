@@ -1,8 +1,19 @@
-# 站点配置
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```javascript
 	
-	function demo (){
-		return "AAA"
-	}
+	console.log('HELLO WORLD')
 
 ```
