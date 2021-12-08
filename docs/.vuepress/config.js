@@ -37,7 +37,6 @@ module.exports = {
             },
             {
                 text: "前端知识",
-                link: '',
                 children: [{
                         text: "排序算法",
                         link: '/knowledge/sort.md',
@@ -63,17 +62,13 @@ module.exports = {
             },
             {
                 text: '面试相关',
-                link: '',
                 children: [{
                     text: 'HTTP/HTTPS',
                     link: '/http-https/README.md',
-                    children: [],
                 }, {
                     text: 'Javascript',
-                    link: '',
                     children: [{
                         text: '闭包',
-                        link: '',
                     }],
                 }, ]
             },
