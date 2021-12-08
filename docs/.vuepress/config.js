@@ -10,11 +10,9 @@ module.exports = {
                 text: '选择语言',
                 children: [{
                     text: '简体中文',
-                    link: '',
 
                 }, {
                     text: 'English',
-                    link: '/english/',
                     activeMatch: '^/english/',
                 }, ]
             },
