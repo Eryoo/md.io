@@ -41,7 +41,7 @@ module.exports = {
                     text: "排序算法",
                     link: '/knowledge/sort.md',
 
-                }, ]
+                }]
             },
             {
                 text: "实战进阶"
