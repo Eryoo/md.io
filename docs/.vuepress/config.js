@@ -38,24 +38,10 @@ module.exports = {
             {
                 text: "前端知识",
                 children: [{
-                        text: "排序算法",
-                        link: '/knowledge/sort.md',
+                    text: "排序算法",
+                    link: '/knowledge/sort.md',
 
-                    },
-                    {
-                        text: "搜索算法",
-
-                    },
-                    {
-                        text: "随机算法"
-                    },
-                    {
-                        text: "递归"
-                    },
-                    {
-                        text: "树"
-                    },
-                ]
+                }, ]
             },
             {
                 text: "实战进阶"
@@ -65,12 +51,7 @@ module.exports = {
                 children: [{
                     text: 'HTTP/HTTPS',
                     link: '/http-https/README.md',
-                }, {
-                    text: 'Javascript',
-                    children: [{
-                        text: '闭包',
-                    }],
-                }, ]
+                }]
             },
             {
                 text: "项目管理相关知识",
