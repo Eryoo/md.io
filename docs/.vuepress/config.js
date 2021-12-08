@@ -6,18 +6,7 @@ module.exports = {
 
     themeConfig: {
         logo: 'http://mms0.baidu.com/it/u=3113972560,2880338129&fm=253&app=138&f=JPEG&fmt=auto&q=75',
-        navbar: [{
-                text: '选择语言',
-                children: [{
-                    text: '简体中文',
-
-                }, {
-                    text: 'English',
-                    activeMatch: '^/english/',
-                }, ]
-            },
-
-        ],
+        navbar: [],
         locales: {
             '/': {
                 selectLanguageName: 'English',
@@ -42,7 +31,8 @@ module.exports = {
                 }]
             },
             {
-                text: "实战进阶"
+                text: "实战进阶",
+                link: '/',
             },
             {
                 text: '面试相关',
