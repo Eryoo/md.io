@@ -22,17 +22,20 @@ module.exports = {
                 }, {
                     text: "二叉树",
                     link: '/tree/index.md',
+                }, {
+                    text: "Promise",
+                    link: '/promise/index.md',
+                }, {
+                    text: "斐波纳契数",
+                    link: '/fibonacciNumber/index.md',
                 }]
             },
             {
-                text: '面试相关',
-                children: [{
-                    text: 'HTTP/HTTPS',
-                    link: '/http-https/README.md',
-                }]
+                text: '常用工具函数',
+                link:"/utils/index.md"
             },
             {
-                text: "项目管理相关知识",
+                text: "项目管理知识",
                 link: '/PMP/README.md'
             }
         ],
