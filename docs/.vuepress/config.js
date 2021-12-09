@@ -1,8 +1,8 @@
 module.exports = {
     base: "/md.io/",
     lang: 'zh-CN',
-    title: '“来首有音乐治治我的腿”的前端学习网',
-    description: '“来首有音乐治治我的腿”的前端学习网',
+    title: '“来首有音乐治治我的腿”的小本本',
+    description: '“来首有音乐治治我的腿”的小本本',
 
     themeConfig: {
         contributors: false,
