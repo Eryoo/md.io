@@ -19,6 +19,9 @@ module.exports = {
                     text: "排序算法",
                     link: '/knowledge/sort.md',
 
+                }, {
+                    text: "二叉树",
+                    link: '/tree/index.md',
                 }]
             },
             {
