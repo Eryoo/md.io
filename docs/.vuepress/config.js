@@ -37,6 +37,10 @@ module.exports = {
             {
                 text: "项目管理知识",
                 link: '/PMP/README.md'
+            },
+            {
+                text: "实战进阶",
+                link: '/fighting/index.md'
             }
         ],
     },
