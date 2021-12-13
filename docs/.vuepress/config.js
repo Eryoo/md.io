@@ -19,17 +19,17 @@ module.exports = {
                 text: "前端知识",
                 children: [{
                     text: "排序算法",
-                    link: '/knowledge/sort.md',
+                    link: '/FE/knowledge/sort.md',
 
                 }, {
                     text: "二叉树",
-                    link: '/tree/index.md',
+                    link: '/FE/tree/index.md',
                 }, {
                     text: "Promise",
-                    link: '/promise/index.md',
+                    link: '/FE/promise/index.md',
                 }, {
                     text: "斐波纳契数",
-                    link: '/fibonacciNumber/index.md',
+                    link: '/FE/fibonacciNumber/index.md',
                 }]
             },
             {
