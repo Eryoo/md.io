@@ -7,6 +7,8 @@ module.exports = {
     themeConfig: {
         contributors: false,
         logo: 'http://mms0.baidu.com/it/u=3113972560,2880338129&fm=253&app=138&f=JPEG&fmt=auto&q=75',
+        navbar: [],
+        sidebarDepth: 2,
         sidebar: [
             // SidebarItem
             {
@@ -32,16 +34,25 @@ module.exports = {
             },
             {
                 text: '常用工具函数',
-                link:"/utils/index.md"
+                link: "/utils/index.md"
+            },
+
+            {
+                text: "前端框架",
+                link: '/framework/index.md'
+            },
+            {
+                text: "面试题",
+                link: '/interview/index.md',
+            },
+            {
+                text: "实战进阶",
+                link: '/fighting/index.md'
             },
             {
                 text: "项目管理知识",
                 link: '/PMP/README.md'
             },
-            {
-                text: "实战进阶",
-                link: '/fighting/index.md'
-            }
         ],
     },
 }
