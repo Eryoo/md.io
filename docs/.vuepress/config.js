@@ -7,7 +7,18 @@ module.exports = {
     themeConfig: {
         contributors: false,
         logo: 'http://mms0.baidu.com/it/u=3113972560,2880338129&fm=253&app=138&f=JPEG&fmt=auto&q=75',
-        navbar: [],
+        navbar: [
+            {
+                text:"介绍",
+                link:"/README.md",
+                activeMatch: '',
+            },
+            {
+                text:"项目管理知识",
+                link:"/PMP/README.md",
+                activeMatch: '^/pmp/',
+            }
+        ],
         sidebarDepth: 2,
         sidebar: [
             // SidebarItem
@@ -48,10 +59,6 @@ module.exports = {
             {
                 text: "实战进阶",
                 link: '/fighting/index.md'
-            },
-            {
-                text: "项目管理知识",
-                link: '/PMP/README.md'
             },
         ],
     },
