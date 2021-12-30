@@ -57,6 +57,10 @@ module.exports = {
                 text: "实战进阶",
                 link: '/fighting/index.md'
             },
+            {
+                text: "uniapp",
+                link: '/uniapp/index.md'
+            },
         ],
     },
 }
