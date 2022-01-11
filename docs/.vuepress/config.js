@@ -1,8 +1,8 @@
 module.exports = {
     base: "/md.io/",
     lang: 'zh-CN',
-    title: '“来首音乐治治我的腿”的小本本',
-    description: '“来首音乐治治我的腿”的小本本',
+    title: 'JasonZhao的笔记本',
+    description: 'JasonZhao的笔记本',
 
     themeConfig: {
         contributors: false,
@@ -42,17 +42,22 @@ module.exports = {
             },
             {
                 text: "前端知识",
-                children: [{
-                    text: "排序算法",
-                    link: '/FE/knowledge/sort.md',
+                children: [
+                    {
+                        text: "Intersection Observer API",
+                        link: '/FE/IntersectionObserverAPI/index.md',
 
-                }, {
-                    text: "二叉树实现",
-                    link: '/FE/tree/index.md',
-                }, {
-                    text: "Promise实现",
-                    link: '/FE/promise/index.md',
-                }]
+                    }, {
+                        text: "排序算法",
+                        link: '/FE/knowledge/sort.md',
+
+                    }, {
+                        text: "二叉树实现",
+                        link: '/FE/tree/index.md',
+                    }, {
+                        text: "Promise实现",
+                        link: '/FE/promise/index.md',
+                    }]
             },
             // {
             //     text: '常用工具函数',

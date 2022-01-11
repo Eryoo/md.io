@@ -1,4 +1,4 @@
-# uniApp
+# uniapp
 UniApp 小程序脱离HBuilderX打包wgt实践。
 
 项目根目录下添加`scripts`文件夹,创建`appBuild.js`

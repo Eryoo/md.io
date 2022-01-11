@@ -1,10 +1,4 @@
 
-
-
-![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fn.sinaimg.cn%2Fsinakd20200719ac%2F242%2Fw641h401%2F20200719%2F9df9-iwpcxks3710483.jpg&refer=http%3A%2F%2Fn.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg)
-```javascript
-	console.log('HELLO WORLD')
-```
 > 点滴的记录是为了让回忆有迹可循！:smiling_face_with_three_hearts:
 
 
