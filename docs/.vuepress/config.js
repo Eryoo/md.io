@@ -23,6 +23,11 @@ module.exports = {
                 link: '/interview/index.md',
                 activeMatch: '^/interview/',
             },
+            {
+                text: "前端规范",
+                link: '/FE-specification/index.md',
+                activeMatch: '^/FE-specification/',
+            },
         ],
         sidebarDepth: 2,
         sidebar: [
@@ -49,10 +54,10 @@ module.exports = {
                     link: '/FE/promise/index.md',
                 }]
             },
-            {
-                text: '常用工具函数',
-                link: "/utils/index.md"
-            },
+            // {
+            //     text: '常用工具函数',
+            //     link: "/utils/index.md"
+            // },
             {
                 text: "实战进阶",
                 link: '/fighting/index.md'
