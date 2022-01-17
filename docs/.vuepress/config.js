@@ -57,6 +57,10 @@ module.exports = {
                     }, {
                         text: "Promise实现",
                         link: '/FE/promise/index.md',
+                    },
+                    {
+                        text: "Dsbridge-Ts",
+                        link: '/FE/DsbridgeTs/index.md',
                     }]
             },
             // {
