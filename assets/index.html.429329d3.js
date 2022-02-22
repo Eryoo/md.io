@@ -1,0 +1,1 @@
+const e={key:"v-7d72c4ac",path:"/framework/",title:"UI\u6846\u67B6",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1639365115e3},filePathRelative:"framework/index.md"};export{e as data};

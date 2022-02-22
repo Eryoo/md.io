@@ -1,0 +1,1 @@
+const e={key:"v-5f3c6361",path:"/FE/DsbridgeTs/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642388528e3},filePathRelative:"FE/DsbridgeTs/index.md"};export{e as data};

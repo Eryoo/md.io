@@ -1,0 +1,1 @@
+const t={key:"v-a47c4c78",path:"/fighting/",title:"\u4EFF\u7F51\u6613\u4E91\u4E91\u97F3\u4E50",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1639365115e3},filePathRelative:"fighting/index.md"};export{t as data};

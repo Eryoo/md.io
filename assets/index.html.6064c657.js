@@ -1,0 +1,1 @@
+const e={key:"v-f7d4216a",path:"/FE/IntersectionObserverAPI/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u53C2\u8003\u6587\u732E",slug:"\u53C2\u8003\u6587\u732E",children:[]}],git:{updatedTime:1641872874e3},filePathRelative:"FE/IntersectionObserverAPI/index.md"};export{e as data};
